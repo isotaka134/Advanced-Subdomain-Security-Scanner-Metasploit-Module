@@ -62,7 +62,7 @@ run
 
 ---
 
-## 📂 Example Output (Colored Bash Preview)
+## 📂 Example Output
 ```bash
 [*] Finding subdomains...
 [+] Subdomain found: api.example.com
