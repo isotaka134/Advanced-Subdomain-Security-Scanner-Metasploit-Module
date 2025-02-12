@@ -78,8 +78,7 @@ run
 
 ---
 
-## 📜 License
-This project is licensed under the **MSF_LICENSE**.
+## 📜 Author
+**HAMZA EL-HAMDAOUI**.
 
-🔹 **Happy Hacking!** 🔹
 
