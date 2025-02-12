@@ -12,9 +12,13 @@ The results are saved to a file of your choice! 🚀
 
 ## 🎯 Features
 ✅ **Automatic Subdomain Discovery** (via `subfinder`)
+
 ✅ **Full Port Scanning** (via `nmap`)
+
 ✅ **Comprehensive Vulnerability Scanning** (via `nuclei`)
+
 ✅ **Azure Tenant ID Detection**
+
 ✅ **Custom Output File for Results**
 
 ---
