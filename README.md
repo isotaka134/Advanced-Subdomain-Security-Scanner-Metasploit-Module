@@ -53,7 +53,7 @@ set DOMAIN example.com
 ```
 (Optional) Set a custom output file:
 ```bash
-set OUTPUT_FILE example_scan_results.txt
+set OUTPUT_FILE example_scan.txt
 ```
 Run the scan:
 ```bash
